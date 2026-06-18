@@ -1,7 +1,7 @@
 -- 1. Creazione del Database
 CREATE DATABASE il_modellista;
 
-USE DATABASE il_modellista;
+USE il_modellista;
 
 -- 2. Tabella dei Post
 CREATE TABLE IF NOT EXISTS posts (
